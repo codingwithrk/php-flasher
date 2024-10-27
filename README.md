@@ -12,27 +12,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/younes--ennaji/">
-        <img src="https://img.shields.io/badge/author-@yoeunes-blue.svg" alt="Author Badge" />
-    </a>
-    <a href="https://github.com/php-flasher/php-flasher">
-        <img src="https://img.shields.io/badge/source-php--flasher/php--flasher-blue.svg" alt="Source Code Badge" />
-    </a>
-    <a href="https://github.com/php-flasher/php-flasher/releases">
-        <img src="https://img.shields.io/github/tag/php-flasher/flasher.svg" alt="GitHub Release Badge" />
-    </a>
-    <a href="https://github.com/php-flasher/flasher/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License Badge" />
-    </a>
-    <a href="https://packagist.org/packages/php-flasher/flasher">
-        <img src="https://img.shields.io/packagist/dt/php-flasher/flasher.svg" alt="Packagist Downloads Badge" />
-    </a>
-    <a href="https://github.com/php-flasher/php-flasher">
-        <img src="https://img.shields.io/github/stars/php-flasher/php-flasher.svg" alt="GitHub Stars Badge" />
-    </a>
-    <a href="https://packagist.org/packages/php-flasher/flasher">
-        <img src="https://img.shields.io/packagist/php-v/php-flasher/flasher.svg" alt="Supported PHP Version Badge" />
-    </a>
+    <a href="https://www.linkedin.com/in/younes--ennaji"><img src="https://img.shields.io/badge/author-@yoeunes-blue.svg" alt="Author Badge"></a>
+    <a href="https://github.com/php-flasher/php-flasher"><img src="https://img.shields.io/badge/source-php--flasher/php--flasher-blue.svg" alt="Source Code Badge"></a>
+    <a href="https://github.com/php-flasher/php-flasher/releases"><img src="https://img.shields.io/github/tag/php-flasher/flasher.svg" alt="GitHub Release Badge"></a>
+    <a href="https://github.com/php-flasher/flasher/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg" alt="License Badge"></a>
+    <a href="https://packagist.org/packages/php-flasher/flasher"><img src="https://img.shields.io/packagist/dt/php-flasher/flasher.svg" alt="Packagist Downloads Badge"></a>
+    <a href="https://github.com/php-flasher/php-flasher"><img src="https://img.shields.io/github/stars/php-flasher/php-flasher.svg" alt="GitHub Stars Badge"></a>
+    <a href="https://packagist.org/packages/php-flasher/flasher"><img src="https://img.shields.io/packagist/php-v/php-flasher/flasher.svg" alt="Supported PHP Version Badge"></a>
 </p>
 
 ## Table of Contents
