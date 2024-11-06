@@ -64,8 +64,10 @@ Flash messages are important for interactive applications. **<strong><span class
 
 Start using **<strong><span class="text-indigo-900">PHP<span class="text-indigo-500">Flasher</span></span></strong>** with our easy guides:
 
-- [**Symfony Guide**](/Symfony/)
-- [**Laravel Guide**](/Laravel/)
+- [**Symfony Guide**](/symfony/)
+- [**Laravel Guide**](/laravel/)
+- [**Livewire Guide**](/livewire/)
+- [**Inertia Guide**](/inertia/)
 - [**Toastr Library**](/library/toastr/)
 - [**Noty Library**](/library/noty/)
 - [**Notyf Library**](/library/notyf/)
