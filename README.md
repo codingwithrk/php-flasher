@@ -254,6 +254,7 @@ Shining stars of our community:
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://www.instagram.com/lucas.maciel_z"><img src="https://avatars.githubusercontent.com/u/80225404?v=4?s=100" width="100px;" alt="Lucas Maciel"/><br /><sub><b>Lucas Maciel</b></sub></a><br /><a href="#design-LucasStorm" title="Design">🎨</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AhmedGamal"><img src="https://avatars.githubusercontent.com/u/11786167?v=4?s=100" width="100px;" alt="Ahmed Gamal"/><br /><sub><b>Ahmed Gamal</b></sub></a><br /><a href="https://github.com/php-flasher/php-flasher/commits?author=AhmedGamal" title="Code">💻</a> <a href="https://github.com/php-flasher/php-flasher/commits?author=AhmedGamal" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BrookeDot"><img src="https://avatars.githubusercontent.com/u/150348?v=4?s=100" width="100px;" alt="Brooke."/><br /><sub><b>Brooke.</b></sub></a><br /><a href="https://github.com/php-flasher/php-flasher/commits?author=BrookeDot" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
