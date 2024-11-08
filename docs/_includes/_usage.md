@@ -99,7 +99,7 @@ flash()->{{ type }}('{{ message }}');
 These four methods — `success()`, `error()`, `warning()`, and `info()` — are shortcuts for the `flash()` method. They let you specify the `type` and `message` in one method call instead of passing them separately to `flash()`.
 
 ```php
-flash()->flash(string $type, string $message, string $title = null, array $options = [])
+flash()->flash(string $type, string $message, array $options = [], string $title = null)
 ```
 
 {% assign id = '#/ usage flash' %}
